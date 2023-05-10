@@ -5,7 +5,12 @@
   }
 
 body {
-    background-color: #292929;
+    background-color: #363940;
+    text-align: center;
+}
+main {
+    position: relative;
+    top: 50px;
 }
 
 h1 {
@@ -14,8 +19,7 @@ h1 {
     font-size: 60px;
     font-weight: bold;
     color: #fff;
-    text-align: center;
-    padding: 20px;
+    padding: 40px;
 }
 
 h2 {
@@ -23,17 +27,15 @@ h2 {
     font-weight: bold;
     color: #fff;
     width: 100%;
-    text-align: center;
 }
 
 footer {
     position: relative;
     width: 100%;
-    padding: 50px;
+    padding: 70px;
     font-size: 14px;
     font-weight: bold;
     color: #fff;
-    text-align: center;
 }
 
 footer a {
@@ -41,4 +43,8 @@ footer a {
 }
 footer a:hover {
     color: #f49542
+}
+
+img {
+    border: 1px solid #ef7910;
 }
