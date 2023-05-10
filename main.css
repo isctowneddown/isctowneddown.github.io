@@ -1,0 +1,50 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+    box-sizing:border-box;
+  }
+
+body {
+    background-color: #363940;
+    text-align: center;
+}
+main {
+    position: relative;
+    top: 50px;
+}
+
+h1 {
+    width: 100%;
+    min-height: 140px;
+    font-size: 60px;
+    font-weight: bold;
+    color: #fff;
+    padding: 40px;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+    width: 100%;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    padding: 70px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+}
+
+footer a {
+    color: #ef7910
+}
+footer a:hover {
+    color: #f49542
+}
+
+img {
+    border: 1px solid #ef7910;
+}
